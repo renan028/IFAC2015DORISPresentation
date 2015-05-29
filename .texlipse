@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Wed May 13 16:47:36 BRT 2015
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=main.tex
+outputFile=IFAC2015.pdf
+langSpell=en
+markDer=true
+srcDir=
